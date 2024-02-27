@@ -1,4 +1,4 @@
-# cryptografieBoodschap
+# Encrypting messages with python
 
 [EN]: This program can be used to encrypt a message in black, on a white background.
 Manual:
